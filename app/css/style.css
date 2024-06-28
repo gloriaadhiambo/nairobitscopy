@@ -1,0 +1,73 @@
+/* styling navbar */
+.nav-link{
+   color: blue !important;
+   gap: 5rem;
+}
+.navbar{
+    background-color: rgb(146, 225, 245);
+    position: fixed;
+}
+.dropdown-menu{
+    gap: 10px;
+}
+
+
+.bits{
+    position: fixed;
+}
+
+/* styling button */
+.btn-1{
+    background-color: orange;
+    color: white;
+    padding: 10px;
+}
+.btn-1:hover{
+background-color: orange;
+color: transparent;
+border-color: orange;
+}
+
+/* styling social icons */
+.icons{
+    list-style: none;
+    color:  rgb(125, 106, 212);
+    position: relative; top: 250px; left: 30px;
+    gap: 5rem;
+}
+.carousel{
+    background-color: rgb(66, 122, 185);
+}
+.paragraph{
+    position: relative;
+    left: 100px;
+}
+hr{
+    width: 150px;
+    
+}
+.footer{
+    background-color: aquamarine;
+    padding: 10px 20px;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+.tag{
+    background-color: orange;
+    border-radius: 50px;
+    height: 40px;
+    width: 250px;
+    color: white;
+    position: relative;
+    top: -40px;
+    left: 450px;
+}
+.icons-2{
+    list-style: none;
+    display: flex;
+    gap: 4rem;
+    color: rgb(125, 106, 212);
+    position: relative;
+    bottom: -40px;
+}
